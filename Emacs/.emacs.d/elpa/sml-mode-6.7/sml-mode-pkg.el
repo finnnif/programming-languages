@@ -1,0 +1,2 @@
+;;; -*- no-byte-compile: t -*-
+(define-package "sml-mode" "6.7" "Major mode for editing (Standard) ML" 'nil :authors '(("Lars Bo Nielsen") ("	Olin Shivers") ("	Fritz Knabe (?)") ("	Steven Gilmore (?)") ("	Matthew Morley" . "mjm@scs.leeds.ac.uk") ("	Matthias Blume" . "blume@cs.princeton.edu") ("	(Stefan Monnier)" . "monnier@iro.umontreal.ca")) :maintainer '("(Stefan Monnier)" . "monnier@iro.umontreal.ca"))
